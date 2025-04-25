@@ -3,14 +3,39 @@ title: Home
 layout: home
 ---
 
-**Hello**
-----
+# Volumetric Capture Video Player for Unity and Unreal Engine
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+**Description** <br>
+Allows designers, developers, and filmmakers to include glTF and GLB volumetric capture videos in their projects. <br>
+<br>
+![image](https://github.com/user-attachments/assets/25f7885e-3ffb-44ed-b3c7-a21c54ac41c2) 
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+**Usage** <br>
+This plugin can be used in multiple design and development activities such as: <br>
+<li>Films</li>
+<li>Computer Games</li>
+<li>Virtual and Augmented Reality</li>
+<li>Computer Graphics Research</li>
+<br>
+
+**Showcase** <br>
+Contact: deucalionpapadopoulos@gmail.com
+
+**Support** <br>
+Contact: deucalionpapadopoulos@gmail.com
+
+**Authors and acknowledgment** <br>
+Dimitrios Zarpalas, Senior Researcher <br>
+Antonios Karakottas, PhD Candidate <br>
+Dimitrios Pattas, Research Associate <br>
+Defkalion Nikolaos Papadopoulos, Intern <br>
+The Center for Research & Technology, Hellas
+
+**Roadmap** <br>
+Add URL Support <br>
+Add advanced features (change playback speed, pause, reverse etc.)
+
+**License** <br>
+MIT License
+
+****
