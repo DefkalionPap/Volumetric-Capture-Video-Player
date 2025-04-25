@@ -1,3 +1,8 @@
+---
+title: Installation
+layout: home
+---
+
 # Installation
 
 **Requirements** <br>
