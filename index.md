@@ -16,7 +16,6 @@ This plugin can be used in multiple design and development activities such as: <
 <li>Computer Games</li>
 <li>Virtual and Augmented Reality</li>
 <li>Computer Graphics Research</li>
-<br>
 
 **Showcase** <br>
 Contact: deucalionpapadopoulos@gmail.com
