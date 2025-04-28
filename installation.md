@@ -19,7 +19,7 @@ Unreal Engine 5.0 and above <br>
 <li>Click "Instal package from git URL..."</li>
 <li>Paste the link and add package</li><br>
 
-![unity](https://github.com/user-attachments/assets/08314a8b-3859-4797-8adc-fd88fba9a498)
+![unity](https://github.com/user-attachments/assets/2b38320e-b474-4bed-a10e-0259b1b1bd84)
 
 **Unreal Engine** <br>
 <li>Visit: https://github.com/DefkalionPap/Volumetric-Capture-Video-Player-Unreal</li>
