@@ -12,10 +12,9 @@ Allows designers, developers, and filmmakers to include glTF and GLB volumetric 
 
 **Usage** <br>
 This plugin can be used in multiple design and development activities such as: <br>
-<li>Films</li>
-<li>Computer Games</li>
-<li>Virtual and Augmented Reality</li>
-<li>Computer Graphics Research</li>
+<li>Filmmaking</li>
+<li>Game Deisng and Development</li>
+<li>Virtual and Augmented Reality Application Design and Development</li>
 
 **Showcase** <br>
 Contact: deucalionpapadopoulos@gmail.com
