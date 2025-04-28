@@ -10,7 +10,7 @@ layout: home
 <li>Add the VolumetricCaptureVideoPlayer Component</li>
 <li>Copy your glTF/GLB file to the project's StreamingAssets folder</li>
 <li>Copy the file's name</li>
-<li>Paste the file's name into the File Name list"</li>
+<li>Paste the file's name into the File Name list</li>
 <li>Adjust the actor's transform to display your video correctly</li><br>
 
 ![unity](https://github.com/user-attachments/assets/3818d104-f465-4145-9003-03f42b9d2193)
