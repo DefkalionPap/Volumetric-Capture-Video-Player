@@ -23,7 +23,7 @@ Unreal Engine 5.0 and above <br>
 
 **Unreal** <br>
 <li>Visit: https://github.com/DefkalionPap/Volumetric-Capture-Video-Player-Unreal</li>
-<li>Click the Clone(<>) button</li>
+<li>Click the Code(<>) button</li>
 <li>Download ZIP</li>
 <li>Extract files</li>
 <li>Copy extracted folder and paste it on your project's Plugin folder</li><br>
