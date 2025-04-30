@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Installation
-layout: home
+nav_order: 2
+description: "Installation Guide"
 ---
 
 # Installation
