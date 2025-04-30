@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Setup
-layout: home
+nav_order: 3
+description: "Setup Guide"
 ---
 
 # Setup
