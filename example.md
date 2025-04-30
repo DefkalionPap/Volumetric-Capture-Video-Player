@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Example
-layout: home
+nav_order: 4
+description: "Example"
 ---
 
 # Example
